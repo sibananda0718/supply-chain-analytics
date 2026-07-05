@@ -55,5 +55,19 @@ and 126-day delivery failures.
 → 3-Page Interactive Dashboard
 → Business Insights and Recommendations
 
+<img width="1325" height="748" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/d8f06209-4013-411b-a338-20c6e3949dac" />
+
+
+<img width="1350" height="744" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/0903f0f1-5080-4599-8edb-13ce835bef1c" />
+
+
+<img width="1331" height="747" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/e604ed9e-f76b-4d9f-a05f-35699d87d6c2" />
+
+<img width="1691" height="733" alt="Star Schema screenshot" src="https://github.com/user-attachments/assets/ed9cb493-2fcc-4f49-8a3d-4c28ee412b46" />
+
+
+
+
+
 
 
